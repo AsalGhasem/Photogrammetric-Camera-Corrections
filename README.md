@@ -1,4 +1,4 @@
-# Photogrammetric Camera Corrections
+# Image Coordinate Correction
 
 A Flask-based web application for calculating and applying common photogrammetric corrections to image coordinates.
 
